@@ -1,0 +1,1 @@
+Hey all, in this repo, I am gonna save everything related to the setup. What I added, removed, debugged, changed, etc.
