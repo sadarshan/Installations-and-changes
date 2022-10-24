@@ -1,5 +1,6 @@
 [This](https://youtu.be/mKt4ZTaE2bk) video instructions explains clearly about the installation instructions and errors that I found and resolved. I highly recommend to follow the instructions for errorless installation.
 
+> NOTE: The above video contains both PX4 and Ardupilot installations. However, I have only installed PX4 which is till 28:30 timestamp. If you also want to play with PX4, you can skip Ardupilot installation.
 ---
 
 [gazebo installation instructions](https://classic.gazebosim.org/tutorials?tut=install_ubuntu)
