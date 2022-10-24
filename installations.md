@@ -15,7 +15,7 @@ Download/clone PX4-Autopilot GitHub for SITL from [here](https://github.com/PX4/
 
 After cloning, open terminal in PX4-Autopilot and run ```make px4_sitl gazebo``` to start building binaries for copter.
 
-> **NOTE:** If you don't have cmake in your OS, easiest way to install it from *Ubuntu Software* app. Just search *cmake* and install the package. `#ffffff`
+> **NOTE:** If you don't have cmake in your OS, easiest way to install it from *Ubuntu Software* app. Just search *cmake* and install the package. 
 
 Found issue while building cmake: 
 ```
