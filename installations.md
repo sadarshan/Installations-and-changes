@@ -35,3 +35,9 @@ tried resolving it using [these](https://askubuntu.com/questions/384059/error-co
 
 [QGC installation instructions](https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html)
 
+---
+
+Clone MAVSDK-Python repository to your local folder. 
+``` 
+git clone https://github.com/mavlink/MAVSDK-Python --recursive
+```
